@@ -24,4 +24,26 @@ A full-stack E-Commerce web application built using the MERN Stack (MongoDB, Exp
 - Stripe / PayPal Integration
 
 ---
+# 📦 Features
+
+## User Features
+- User Registration & Login
+- JWT Authentication
+- Browse Products
+- Search & Filter Products
+- Product Details Page
+- Add to Cart
+- Checkout System
+- Online Payment Gateway
+- Order History
+- User Profile Management
+
+## Admin Features
+- Admin Dashboard
+- Product CRUD Operations
+- Order Management
+- User Management
+- Sales Analytics
+
+---
 
