@@ -46,4 +46,35 @@ A full-stack E-Commerce web application built using the MERN Stack (MongoDB, Exp
 - Sales Analytics
 
 ---
+# 📁 Folder Structure
+
+```bash
+ecommerce-app/
+│
+├── backend/
+│   ├── config/
+│   ├── controllers/
+│   ├── middleware/
+│   ├── models/
+│   ├── routes/
+│   ├── utils/
+│   ├── server.js
+│   └── package.json
+│
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── redux/
+│   │   ├── services/
+│   │   ├── App.js
+│   │   └── main.js
+│   └── package.json
+│
+├── .env
+├── README.md
+└── package.json
+
+
 
