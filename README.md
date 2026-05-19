@@ -76,5 +76,22 @@ ecommerce-app/
 ├── README.md
 └── package.json
 
+---
+# ▶️ Running the Application
+
+# Start Backend
+
+```bash
+cd backend
+npm run dev
+```
+
+Backend Runs On:
+
+```bash
+http://localhost:5000
+```
+
+---
 
 
