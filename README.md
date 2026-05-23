@@ -140,6 +140,18 @@ http://localhost:3000
 
 ---
 
+# 📌 Future Improvements
+
+- Wishlist Feature
+- Product Reviews & Ratings
+- Email Notifications
+- Multi-vendor Support
+- Dark Mode
+
+---
+
+
+
 
 
 
