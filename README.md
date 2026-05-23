@@ -132,5 +132,16 @@ http://localhost:3000
 
 ---
 
+# 🔐 Authentication
+
+- JWT-based Authentication
+- Protected Routes
+- Role-based Access Control (Admin/User)
+
+---
+
+
+
+
 
 
