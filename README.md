@@ -100,4 +100,37 @@ cd frontend
 npm install
 ```
 
+---
+
+# 🚀 Start the Application
+
+## Run Backend
+
+```bash
+cd backend
+npm run dev
+```
+
+Backend runs on:
+
+```bash
+http://localhost:5000
+```
+
+## Run Frontend
+
+```bash
+cd frontend
+npm start
+```
+
+Frontend runs on:
+
+```bash
+http://localhost:3000
+```
+
+---
+
+
 
