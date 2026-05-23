@@ -1,6 +1,7 @@
 # 🛒 MERN E-Commerce App
 
-A full-stack E-Commerce web application built using the MERN Stack (MongoDB, Express.js, React.js, Node.js). This application includes user authentication, product management, shopping cart, order processing, payment integration, and admin dashboard features.
+A full-stack E-Commerce application built using the MERN stack (MongoDB, Express.js, React.js, Node.js).  
+The app includes authentication, product management, cart functionality, online payments, and an admin dashboard.
 
 ---
 
@@ -12,41 +13,38 @@ A full-stack E-Commerce web application built using the MERN Stack (MongoDB, Exp
 - React Router DOM
 - Axios
 - Tailwind CSS / Bootstrap
-- React Toastify
 
 ## Backend
 - Node.js
 - Express.js
 - MongoDB + Mongoose
 - JWT Authentication
-- bcrypt.js
-- Multer / Cloudinary
-- Stripe / PayPal Integration
+- Cloudinary
+- Stripe / PayPal
 
 ---
-# 📦 Features
+
+# ✨ Features
 
 ## User Features
-- User Registration & Login
-- JWT Authentication
-- Browse Products
-- Search & Filter Products
-- Product Details Page
-- Add to Cart
-- Checkout System
-- Online Payment Gateway
+- User Authentication
+- Browse & Search Products
+- Product Details
+- Shopping Cart
+- Secure Checkout
+- Online Payment Integration
 - Order History
 - User Profile Management
 
 ## Admin Features
 - Admin Dashboard
-- Product CRUD Operations
+- Product Management
 - Order Management
 - User Management
-- Sales Analytics
 
 ---
-# 📁 Folder Structure
+
+# 📁 Project Structure
 
 ```bash
 ecommerce-app/
@@ -73,25 +71,33 @@ ecommerce-app/
 │   └── package.json
 │
 ├── .env
-├── README.md
-└── package.json
+├── package.json
+└── README.md
+```
 
----
-# ▶️ Running the Application
+# ▶️ Run Locally
 
-# Start Backend
+## 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/ecommerce-app.git
+cd ecommerce-app
+```
+
+## 2. Install Dependencies
+
+### Backend
 
 ```bash
 cd backend
-npm run dev
+npm install
 ```
 
-Backend Runs On:
+### Frontend
 
 ```bash
-http://localhost:5000
+cd frontend
+npm install
 ```
-
----
 
 
