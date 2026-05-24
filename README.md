@@ -19,8 +19,7 @@ The app includes authentication, product management, cart functionality, online 
 - Express.js
 - MongoDB + Mongoose
 - JWT Authentication
-- Cloudinary
-- Stripe / PayPal
+
 
 ---
 
