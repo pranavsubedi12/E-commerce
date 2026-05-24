@@ -12,7 +12,7 @@ The app includes authentication, product management, cart functionality, online 
 - Redux Toolkit
 - React Router DOM
 - Axios
-- Tailwind CSS / Bootstrap
+- Tailwind CSS 
 
 ## Backend
 - Node.js
