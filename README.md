@@ -145,8 +145,6 @@ http://localhost:3000
 - Product Reviews & Ratings
 - Email Notifications
 - Multi-vendor Support
-- Dark Mode
-
 ---
 
 
