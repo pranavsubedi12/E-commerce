@@ -76,14 +76,7 @@ ecommerce-app/
 
 # ▶️ Run Locally
 
-## 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/ecommerce-app.git
-cd ecommerce-app
-```
-
-## 2. Install Dependencies
+## 1. Install Dependencies
 
 ### Backend
 
@@ -141,7 +134,6 @@ http://localhost:3000
 
 # 📌 Future Improvements
 
-- Wishlist Feature
 - Product Reviews & Ratings
 - Email Notifications
 - Multi-vendor Support
