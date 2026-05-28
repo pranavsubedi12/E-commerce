@@ -39,6 +39,7 @@ The app includes authentication, product management, cart functionality, online 
 - Admin Dashboard
 - Product Management
 - Order Management
+- User Management
 
 
 ---
