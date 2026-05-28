@@ -128,12 +128,12 @@ http://localhost:3000
 
 - JWT-based Authentication
 - Protected Routes
-- Role-based Access Control (Admin/User)
+
 
 ---
 
 # 📌 Future Improvements
-
+- Product Reviews & Ratings
 - Email Notifications
 - Multi-vendor Support
 ---
