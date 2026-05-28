@@ -134,7 +134,6 @@ http://localhost:3000
 
 # 📌 Future Improvements
 
-- Product Reviews & Ratings
 - Email Notifications
 - Multi-vendor Support
 ---
