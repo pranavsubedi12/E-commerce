@@ -1,52 +1,55 @@
 # 🛒 MERN E-Commerce App
 
-A full-stack E-Commerce application built using the MERN stack (MongoDB, Express.js, React.js, Node.js).  
-The app includes authentication, product management, cart functionality, online payments, and an admin dashboard.
+A full-stack E-Commerce web application built using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).
+
+The application includes authentication, product management, shopping cart functionality, secure checkout, online payments, and an admin dashboard.
 
 ---
 
 # 🚀 Tech Stack
 
 ## Frontend
-- React.js
-- Redux Toolkit
-- React Router DOM
-- Axios
-- Tailwind CSS 
+
+* React.js
+* Redux Toolkit
+* React Router DOM
+* Axios
+* Tailwind CSS
 
 ## Backend
-- Node.js
-- Express.js
-- MongoDB + Mongoose
-- JWT Authentication
 
+* Node.js
+* Express.js
+* MongoDB + Mongoose
+* JWT Authentication
 
 ---
 
 # ✨ Features
 
 ## User Features
-- User Authentication
-- Browse & Search Products
-- Product Details
-- Shopping Cart
-- Secure Checkout
-- Online Payment Integration
-- Order History
-- User Profile Management
+
+* User Authentication
+* Browse & Search Products
+* Product Details Page
+* Shopping Cart
+* Secure Checkout
+* Online Payment Integration
+* Order History
+* User Profile Management
 
 ## Admin Features
-- Admin Dashboard
-- Product Management
-- Order Management
-- User Management
 
+* Admin Dashboard
+* Product Management
+* Order Management
+* User Management
 
 ---
 
 # 📁 Project Structure
 
-```bash
+```bash id="2gsv4m"
 ecommerce-app/
 │
 ├── backend/
@@ -75,20 +78,43 @@ ecommerce-app/
 └── README.md
 ```
 
+---
+
+# ⚙️ Environment Variables
+
+Create a `.env` file inside the backend folder:
+
+```env id="wpx6hy"
+PORT=5000
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret
+```
+
+---
+
 # ▶️ Run Locally
 
-## 1. Install Dependencies
+## Clone the Repository
 
-### Backend
+```bash id="ow46j8"
+git clone https://github.com/your-username/ecommerce-app.git
+cd ecommerce-app
+```
 
-```bash
+---
+
+# 📦 Install Dependencies
+
+## Backend
+
+```bash id="lb9uyd"
 cd backend
 npm install
 ```
 
-### Frontend
+## Frontend
 
-```bash
+```bash id="ywaz3p"
 cd frontend
 npm install
 ```
@@ -99,50 +125,32 @@ npm install
 
 ## Run Backend
 
-```bash
+```bash id="pk6t0d"
 cd backend
 npm run dev
 ```
 
 Backend runs on:
 
-```bash
+```bash id="ivdkkw"
 http://localhost:5000
 ```
 
+---
+
 ## Run Frontend
 
-```bash
+```bash id="j0or53"
 cd frontend
 npm start
 ```
 
 Frontend runs on:
 
-```bash
+```bash id="7k2b7j"
 http://localhost:3000
 ```
 
 ---
-
-# 🔐 Authentication
-
-- JWT-based Authentication
-- Protected Routes
-- Role-based Access Control (Admin/User)
-
----
-
-# 📌 Future Improvements
-- Product Reviews & Ratings
-- Email Notifications
-- Multi-vendor Support
----
-
-
-
-
-
-
 
 
