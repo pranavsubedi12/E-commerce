@@ -2,7 +2,7 @@
 
 A full-stack E-Commerce web application built using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).
 
-The application includes authentication, product management, shopping cart functionality, secure checkout, online payments, and an admin dashboard.
+The application includes authentication, product management, shopping cart functionality, secure checkout, online payment, and also an admin dashboard.
 
 ---
 
