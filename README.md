@@ -6,7 +6,7 @@ The application includes authentication, product management, shopping cart funct
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
 ## Frontend
 
@@ -128,16 +128,12 @@ http://localhost:5000
 
 ## Run Frontend
 
-```bash id="j0or53"
+```
 cd frontend
 npm start
 ```
 
-Frontend runs on:
 
-```bash id="7k2b7j"
-http://localhost:3000
-```
 
 ---
 # 🔐 Authentication
