@@ -39,7 +39,7 @@ The app includes authentication, product management, cart functionality, online 
 - Admin Dashboard
 - Product Management
 - Order Management
-- User Management
+
 
 ---
 
@@ -128,7 +128,7 @@ http://localhost:3000
 
 - JWT-based Authentication
 - Protected Routes
-
+- Role-based Access Control (Admin/User)
 
 ---
 
