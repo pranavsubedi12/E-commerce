@@ -159,6 +159,13 @@ http://localhost:3000
 * Role-based Access Control (Admin/User)
 
 ---
+# 🧪 Future Improvements
+
+* Product Reviews & Ratings
+* Email Notifications
+* Multi-vendor Support
+
+---
 
 
 
